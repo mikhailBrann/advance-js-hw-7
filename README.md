@@ -1,4 +1,4 @@
-# Object, Reflection и Proxy
+# RegEx
 
 [![Build status](https://ci.appveyor.com/api/projects/status/gc1fj688ulqp5y5r?svg=true)](https://ci.appveyor.com/project/mikhailBrann/advance-js-hw-6)
 
